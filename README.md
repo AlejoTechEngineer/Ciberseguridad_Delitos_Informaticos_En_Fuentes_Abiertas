@@ -36,10 +36,10 @@
 
 > *"¿Somos conscientes de toda la información que hay en Internet sobre nosotros como paso previo a la realización de un delito?"*
 
-Este laboratorio es una **investigación práctica de inteligencia en fuentes abiertas (OSINT)** aplicada al análisis de la huella digital de un individuo. Se simuló el proceso de reconocimiento que podría llevar a cabo un ciberdelincuente utilizando **únicamente herramientas legales y de acceso público**, sin vulnerar ningún sistema ni acceder a información privada.
+<p align="justify">Este laboratorio es una **investigación práctica de inteligencia en fuentes abiertas (OSINT)** aplicada al análisis de la huella digital de un individuo. Se simuló el proceso de reconocimiento que podría llevar a cabo un ciberdelincuente utilizando **únicamente herramientas legales y de acceso público**, sin vulnerar ningún sistema ni acceder a información privada.
 
 El objetivo es entender el nivel real de exposición digital de una persona y evaluar cómo esa información, en manos equivocadas, puede convertirse en el punto de partida de múltiples delitos informáticos.
-
+</p>
 ---
 
 ## 🎯 Objetivos
