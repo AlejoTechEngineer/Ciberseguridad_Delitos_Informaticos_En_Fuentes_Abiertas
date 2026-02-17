@@ -174,8 +174,6 @@
 
 ## 👨‍💻 Autor
 
-<div align="center">
-
 ```
 | | |
 |---|---|
@@ -186,8 +184,6 @@
 | 📚 **Materia** | Seguridad en los Sistemas de Información |
 | 👨‍🏫 **Profesor** | Ing. Diego Osorio Reina |
 ```
-
-</div>
 
 ---
 
