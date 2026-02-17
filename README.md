@@ -1,4 +1,4 @@
-# 🕵️ LAB 01 — DELITOS INFORMÁTICOS EN FUENTES ABIERTAS
+<h1 align="center"># 🕵️ LAB 01 — DELITOS INFORMÁTICOS EN FUENTES ABIERTAS</h1>
 
 <div align="center">
 
