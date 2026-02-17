@@ -177,19 +177,14 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────┐
-│                                         │
-│   👤  Alejandro De Mendoza              │
-│   🏛️  Fundación Universitaria           │
-│       Internacional de La Rioja (UNIR)  │
-│   📍  Bogotá D.C., Colombia             │
-│   📅  Febrero 2026                      │
-│                                         │
-│   Materia: Seguridad en los Sistemas    │
-│            de Información               │
-│   Profesor: Ing. Diego Osorio Reina     │
-│                                         │
-└─────────────────────────────────────────┘
+| | |
+|---|---|
+| 👤 **Autor** | Alejandro De Mendoza |
+| 🏛️ **Universidad** | Fundación Universitaria Internacional de La Rioja (UNIR) |
+| 📍 **Ciudad** | Bogotá D.C., Colombia |
+| 📅 **Fecha** | Febrero 2026 |
+| 📚 **Materia** | Seguridad en los Sistemas de Información |
+| 👨‍🏫 **Profesor** | Ing. Diego Osorio Reina |
 ```
 
 </div>
