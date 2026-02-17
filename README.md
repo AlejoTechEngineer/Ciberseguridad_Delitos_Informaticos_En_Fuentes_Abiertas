@@ -174,7 +174,6 @@
 
 ## 👨‍💻 Autor
 
-```
 | | |
 |---|---|
 | 👤 **Autor** | Alejandro De Mendoza |
@@ -183,7 +182,7 @@
 | 📅 **Fecha** | Febrero 2026 |
 | 📚 **Materia** | Seguridad en los Sistemas de Información |
 | 👨‍🏫 **Profesor** | Ing. Diego Osorio Reina |
-```
+
 
 ---
 
