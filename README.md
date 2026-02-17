@@ -36,9 +36,9 @@
 
 > *"¿Somos conscientes de toda la información que hay en Internet sobre nosotros como paso previo a la realización de un delito?"*
 
-<p align="justify">Este laboratorio es una **investigación práctica de inteligencia en fuentes abiertas (OSINT)** aplicada al análisis de la huella digital de un individuo. Se simuló el proceso de reconocimiento que podría llevar a cabo un ciberdelincuente utilizando **únicamente herramientas legales y de acceso público**, sin vulnerar ningún sistema ni acceder a información privada.
+<p align="justify">Este laboratorio es una **investigación práctica de inteligencia en fuentes abiertas (OSINT)** aplicada al análisis de la huella digital de un individuo. Se simuló el proceso de reconocimiento que podría llevar a cabo un ciberdelincuente utilizando **únicamente herramientas legales y de acceso público**, sin vulnerar ningún sistema ni acceder a información privada.</p>
 
-El objetivo es entender el nivel real de exposición digital de una persona y evaluar cómo esa información, en manos equivocadas, puede convertirse en el punto de partida de múltiples delitos informáticos.
+<p align="justify">El objetivo es entender el nivel real de exposición digital de una persona y evaluar cómo esa información, en manos equivocadas, puede convertirse en el punto de partida de múltiples delitos informáticos.
 </p>
 ---
 
@@ -198,7 +198,7 @@ La barrera de entrada para cometer un delito basado en OSINT es **baja**. No se 
 
 ## ⚖️ Aviso Legal
 
-> Este laboratorio fue desarrollado **exclusivamente con fines académicos** en el marco de la asignatura de Seguridad en los Sistemas de Información. Toda la información recopilada proviene de **fuentes públicas y abiertas**, sin vulnerar sistemas, acceder a datos privados ni infringir ninguna normativa legal. El objetivo es la comprensión y prevención de delitos informáticos, no su ejecución.
+> <p align="justify">Este laboratorio fue desarrollado **exclusivamente con fines académicos** en el marco de la asignatura de Seguridad en los Sistemas de Información. Toda la información recopilada proviene de **fuentes públicas y abiertas**, sin vulnerar sistemas, acceder a datos privados ni infringir ninguna normativa legal. El objetivo es la comprensión y prevención de delitos informáticos, no su ejecución.</p>
 
 ---
 
