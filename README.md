@@ -1,8 +1,8 @@
-<h1 align="center"># 🕵️ LAB 01 — DELITOS INFORMÁTICOS EN FUENTES ABIERTAS</h1>
+# 🕵️ LAB 01 — DELITOS INFORMÁTICOS EN FUENTES ABIERTAS
 
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║    ██████╗ ███████╗██╗███╗   ██╗████████╗                    ║
@@ -15,7 +15,7 @@
 ║         OPEN SOURCE INTELLIGENCE · CYBER CRIMES              ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 ![Status](https://img.shields.io/badge/Status-Completado%20✓-brightgreen?style=for-the-badge)
 ![Materia](https://img.shields.io/badge/Materia-Seguridad%20en%20SI-red?style=for-the-badge)
@@ -26,6 +26,7 @@
 </div>
 
 ---
+
 
 ## 📌 Descripción
 
