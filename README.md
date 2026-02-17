@@ -156,7 +156,7 @@
 
 ## 📊 Conclusión
 
-> <p align="justify">La principal vulnerabilidad no siempre reside en fallos tecnológicos, sino en la **sobreexposición de información personal** y en la falta de conciencia sobre el alcance de la huella digital.</p>
+> <p align="center">La principal vulnerabilidad no siempre reside en fallos tecnológicos, sino en la **sobreexposición de información personal** y en la falta de conciencia sobre el alcance de la huella digital.</p>
 
 <p align="justify">La barrera de entrada para cometer un delito basado en OSINT es **baja**. No se requieren conocimientos de hacking ni herramientas sofisticadas. Basta con Google, paciencia y saber combinar fragmentos de información aparentemente inofensivos.</p>
 
