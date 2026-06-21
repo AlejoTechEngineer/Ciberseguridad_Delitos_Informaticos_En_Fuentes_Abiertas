@@ -199,3 +199,15 @@
 **🔐 Protege tu huella digital.**
 
 </div>
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Investigacion OSINT - Fuentes Abiertas] --> B[Identificacion de Delitos Informaticos]
+    B --> C[Acceso Abusivo - Art 269A Ley 1273]
+    B --> D[Interceptacion de Datos - Art 269C]
+    B --> E[Violacion Datos Personales - Art 269F]
+    C & D & E --> F[Analisis de Evidencia Digital]
+    F --> G[Herramientas OSINT - Shodan - Maltego - TheHarvester]
+    G --> H[Informe de Hallazgos PDF/DOCX]
+```
