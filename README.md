@@ -31,7 +31,6 @@
 
 ---
 
-
 ## 📌 Descripción
 
 > *"¿Somos conscientes de toda la información que hay en Internet sobre nosotros como paso previo a la realización de un delito?"*
@@ -41,6 +40,19 @@
 <p align="justify">El objetivo es entender el nivel real de exposición digital de una persona y evaluar cómo esa información, en manos equivocadas, puede convertirse en el punto de partida de múltiples delitos informáticos.</p>
 
 ---
+
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Investigacion OSINT - Fuentes Abiertas] --> B[Identificacion de Delitos Informaticos]
+    B --> C[Acceso Abusivo - Art 269A Ley 1273]
+    B --> D[Interceptacion de Datos - Art 269C]
+    B --> E[Violacion Datos Personales - Art 269F]
+    C & D & E --> F[Analisis de Evidencia Digital]
+    F --> G[Herramientas OSINT - Shodan - Maltego - TheHarvester]
+    G --> H[Informe de Hallazgos PDF/DOCX]
+```
 
 ## 🎯 Objetivos
 
@@ -183,7 +195,6 @@
 | 📚 **Materia** | Seguridad en los Sistemas de Información |
 | 👨‍🏫 **Profesor** | Ing. Diego Osorio Reina |
 
-
 ---
 
 ## ⚖️ Aviso Legal
@@ -199,15 +210,3 @@
 **🔐 Protege tu huella digital.**
 
 </div>
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[Investigacion OSINT - Fuentes Abiertas] --> B[Identificacion de Delitos Informaticos]
-    B --> C[Acceso Abusivo - Art 269A Ley 1273]
-    B --> D[Interceptacion de Datos - Art 269C]
-    B --> E[Violacion Datos Personales - Art 269F]
-    C & D & E --> F[Analisis de Evidencia Digital]
-    F --> G[Herramientas OSINT - Shodan - Maltego - TheHarvester]
-    G --> H[Informe de Hallazgos PDF/DOCX]
-```
